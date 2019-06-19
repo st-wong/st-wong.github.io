@@ -1,0 +1,14 @@
+<div class="timeline">
+    {{ range where .Paginator.Pages "Section" "ne" "" }}
+        <div class="timeline-item">
+            <div class="timeline-left tooltip" data-tooltip="{{ .Date.Format "2006 Jan" }}">
+                <i class="timeline-icon"></i>
+            </div>
+            <div class="timeline-content">
+                <h6>{{ .Date.Format "2006 January" }}</h6>
+                <a href='{{ .URL }}'>{{ .LinkTitle }}</a>
+                <p>{{ .Description | markdownify }}</p>
+            </div>
+        </div>
+    {{ end }}
+</div>

@@ -1,0 +1,11 @@
+<div class="profile">
+    <section id="wrapper">
+        <header id="header">
+            <a href="{{ "about" | absURL }}">
+                <img id="avatar" class="2x" src="{{ "images/avatar.png" | absURL }}"/>
+            </a>
+            <h3>{{ .Site.Params.name }}</h3>
+            <h5 class="text-gray">{{ .Site.Params.bio | markdownify }}</h5>
+        </header>
+    </section>
+</div>

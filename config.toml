@@ -1,0 +1,56 @@
+# Site settings
+baseurl = "https://st-wong.github.io/"
+languageCode = "en-us"
+title = "Shin Tatt, Wong"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+	name = "Shin Tatt, Wong"
+	description = "Work of Shin Tatt"
+	bio = "*Full Stack developer.*"
+	enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = [
+		"https://unpkg.com/spectre.css/dist/spectre.min.css",
+		"https://unpkg.com/spectre.css/dist/spectre-exp.min.css",
+		"https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+	]
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	subscribe = ""
+
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	copyright = "[Credits](https://github.com/st-wong/st-wong.github.io/blob/master/CREDITS.md) [License](https://github.com/st-wong/st-wong.github.io/blob/master/LICENSE.md)"
+
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm a Devloper."
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = ""
+
+# Add additional social link entries underneath
+[social]
+	email	 = "mailto:shintatt.wong@gmail.com"
+    facebook = "https://www.facebook.com/shintatt"
+	github   = "https://www.github.com/st-wong"
+    linkedin = "https://www.linkedin.com/in/ShinTatt"
+	twitter  = "https://www.twitter.com/shintatt"

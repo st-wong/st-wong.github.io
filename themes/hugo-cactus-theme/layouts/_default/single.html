@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article class="post">
+    <header>
+        <h2 class="text-center">{{ .Title }}</h2>
+        <h6 class="text-center text-gray"><i>{{ .Description | markdownify }}</i></h6>
+    </header>
+    <section id="post-body">
+        {{ .Content }}
+
+        <code>Tags</code>: {{ with .Params.tags }}
+        {{ if ge (len .) 1 }}
+            {{ range . }}
+            <code><a href="{{ printf "tags/%s" (. | urlize) | absURL }}">{{ . }}</a></code>
+            {{ end }}
+        {{ end }}
+        {{ end}}
+    </section>
+    <footer id="post-meta" class="clearfix">
+        <a href="https://twitter.com/@iamdevloper" target="_blank">
+        <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
+        <div>
+            <span class="dark">{{ .Site.Params.name }}</span>
+            <span>{{ .Site.Params.aboutAuthor }}</span>
+        </div>
+        </a>
+        <section class="text-right pt-2">
+                <a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>Back</a>
+        </section>
+    </footer>
+</article>
+
+{{ end }}
