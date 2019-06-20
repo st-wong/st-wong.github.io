@@ -33,7 +33,7 @@ disqusShortname = ""
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
-	copyright = "[Credits](https://github.com/st-wong/st-wong.github.io/blob/master/CREDITS.md) [License](https://github.com/st-wong/st-wong.github.io/blob/master/LICENSE.md)"
+	copyright = "[Credits](https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/CREDITS.md) [License](https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/LICENSE.md)"
 
 	# Sharing options and author information in posts
 	aboutAuthor = "I'm a Devloper."
@@ -44,13 +44,13 @@ disqusShortname = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "mono-social"
-    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    socialIconStyle = ""
+	# The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+	socialIconStyle = ""
 
 # Add additional social link entries underneath
 [social]
 	email	 = "mailto:shintatt.wong@gmail.com"
-    facebook = "https://www.facebook.com/shintatt"
+	facebook = "https://www.facebook.com/shintatt"
 	github   = "https://www.github.com/st-wong"
-    linkedin = "https://www.linkedin.com/in/ShinTatt"
+	linkedin = "https://www.linkedin.com/in/ShinTatt"
 	twitter  = "https://www.twitter.com/shintatt"

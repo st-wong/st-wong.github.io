@@ -1,7 +1,7 @@
 ---
 title: "Netlink IP Communications"
 description: "* Developed web pages for clients, using Web 2.0 Framework."
-date: "2003-09-01"
+date: 2003-09-01
 categories: [
     "Development",
     "Professional",
