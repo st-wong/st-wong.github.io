@@ -6,7 +6,6 @@
     <description>Recent content in Categories on Shin Tatt, Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://st-wong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,6 +20,15 @@
     </item>
     
     <item>
+      <title>Entrepreneurship</title>
+      <link>https://st-wong.github.io/categories/entrepreneurship/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Professional</title>
       <link>https://st-wong.github.io/categories/professional/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -30,7 +38,7 @@
     </item>
     
     <item>
-      <title>Sales &amp; Marketing</title>
+      <title>Sales Marketing</title>
       <link>https://st-wong.github.io/categories/sales-marketing/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
@@ -53,15 +61,6 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>https://st-wong.github.io/categories/volunteer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entrepreneurship</title>
-      <link>https://st-wong.github.io/categories/entrepreneurship/</link>
-      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://st-wong.github.io/categories/entrepreneurship/</guid>
       <description></description>
     </item>
     
