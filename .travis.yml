@@ -4,7 +4,7 @@ install:
   - sudo dpkg -i /tmp/hugo.deb
 
 script:
-  - hugo
+  - hugo -t hugo-cactus-theme
 
 deploy:
   provider: script
