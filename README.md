@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/st-wong/st-wong.github.io.svg?branch=dev%2Fhugo)](https://travis-ci.org/st-wong/st-wong.github.io)
+
 ## Overview of branch `dev/hugo`
 
 This branch will host the source files used to build [st-wong.github.io](https://st-wong.github.io) using [Hugo](https://gohugo.io).
