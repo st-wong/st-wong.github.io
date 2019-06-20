@@ -3,38 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://st-wong.github.io/post/nem-malaysia/</loc>
+    <loc>https://st-wong.github.io/posts/nem-malaysia/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/srixonsportsasia-malaysia/</loc>
+    <loc>https://st-wong.github.io/posts/srixon-sports-asia-malaysia/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/terryfoxrun-malaysia/</loc>
+    <loc>https://st-wong.github.io/posts/terry-fox-run-malaysia/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/keyfides-malaysia/</loc>
+    <loc>https://st-wong.github.io/posts/key-fides-malaysia/</loc>
     <lastmod>2006-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/i-maginationsoftware-malaysia/</loc>
+    <loc>https://st-wong.github.io/posts/i-magination-software-malaysia/</loc>
     <lastmod>2005-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/phoenix-games-studio-malaysia/</loc>
+    <loc>https://st-wong.github.io/posts/phoenix-games-studio-malaysia/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/netlinksipcommunications-us/</loc>
+    <loc>https://st-wong.github.io/posts/netlinks-ip-communications-us/</loc>
     <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/posts/computer-science-graduation-us/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,6 +149,12 @@
   </url>
   
   <url>
+    <loc>https://st-wong.github.io/categories/graduation/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://st-wong.github.io/tags/import-trade/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -204,7 +215,7 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/post/</loc>
+    <loc>https://st-wong.github.io/posts/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

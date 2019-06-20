@@ -71,8 +71,8 @@ body {
 
 .profile #avatar {
 	display: inline-block;
-	width: 80px;
-	height: 80px;
+	width: 150px;
+	height: 150px;
 	border-radius: 50%;
 	margin-bottom: 20px;
 }
@@ -117,13 +117,6 @@ nav.main-nav a.cta {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0px 40px 20px 40px;
-}
-
-.home #avatar {
-	float: right;
-	width: 40px;
-	height: 40px;
-	border-radius: 50%;
 }
 
 /* Typography */
@@ -370,8 +363,8 @@ h2.month {
 }
 
 #post-meta img.avatar {
-  height: 36px;
-  width: 36px;
+  height: 40px;
+  width: 40px;
   float: left;
   border-radius: 50%;
   margin-top: 3px;
