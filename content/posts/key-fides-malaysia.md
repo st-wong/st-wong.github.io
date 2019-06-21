@@ -15,6 +15,7 @@ tags: [
     "event planning",
     "time management",
     "business management",
+    "consulting",
 ]
 ---
 

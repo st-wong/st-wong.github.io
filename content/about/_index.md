@@ -13,17 +13,18 @@ menu: "main"
 &#32;  
 
 ##### Skill Sets
-[`C++`](/tags/c++)
-[`Java`](/tags/java)
-[`C#`](/tags/csharp)
-[`Typescript/Javascript`](/tags/tsjs)
-[`Go`](/tags/go)
-[`PHP`](/tags/php)
-[`MySQL`](/tags/mysql)
-[`Bash Scripting`](tags/bash)
-[`Git`](/tags/git)
-[`SVN`](/tags/svn)
-[`HTML5 & CSS`](/tags/html5css)
+{{% tag cplusplus %}}
+{{% tag java %}}
+{{% tag csharp %}}
+{{% tag go %}}
+{{% tag typescript %}}
+{{% tag javascript %}}
+{{% tag php %}}
+{{% tag mysql %}}
+{{% tag git %}}
+{{% tag ssh %}}
+{{% tag linux %}}
+{{% tag html5 %}}
 
 &#32;  
 
@@ -34,16 +35,11 @@ menu: "main"
 
 &#32;  
 
-##### Qualifications
+##### Education
 * Bachelor’s Degree in Computer Science at The State University of New York, Buffalo.
 * Certification in Systems Analysis and Design, and Network Management at Millard Fillmore College of The State University of New York, Buffalo.
 
 &#32;  
 
 ##### Interests
-`Science & Technology`
-`Sahaja Yoga`
-`Instrumental Music`
-`Golf`
-`Snowboarding`
-`Air Sports`
+{{% button "Science & Technology" %}} {{% button "Sahaja Yoga" %}} {{% button "Instrumental Music" %}} {{% button "Golf" %}} {{% button "Snowboarding" %}} {{% button "Air Sports" %}}

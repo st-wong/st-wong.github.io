@@ -11,7 +11,7 @@
 	
 	{{ $iconStyle := .Site.Params.socialIconStyle }}
     {{ range $key, $val := .Site.Social }}
-    <a class="symbol" href="{{ $val }}" {{ if ne $key "email" }}target="_blank"{{ end }}>
+    <a class="symbol" href="{{ $val }}"{{ if ne $key "email" }} target="_blank"{{ end }}>
         {{ $iconStyle }}{{ if eq $key "twitter" }}twitterbird{{ else }}{{ $key }}{{ end }}
     </a>
     {{ end }}

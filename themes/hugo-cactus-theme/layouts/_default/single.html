@@ -10,14 +10,16 @@
         <code>Tags</code>: {{ with .Params.tags }}
         {{ if ge (len .) 1 }}
             {{ range . }}
-            <code><a href="{{ printf "tags/%s" (. | urlize) | absURL }}">{{ . }}</a></code>
+            <a href="{{ printf "tags/%s" (. | urlize) | absURL }}"><span class="chip bg-secondary text-error">{{ . }}</span></a>
             {{ end }}
         {{ end }}
         {{ end}}
     </section>
     <footer id="post-meta" class="clearfix">
         <a href="https://twitter.com/@iamdevloper" target="_blank">
-        <img class="avatar" src="{{ "images/avatar.png" | absURL }}">
+        <figure class="avatar avatar-lg">
+            <img src="{{ "images/avatar.png" | absURL }}">
+        </figure>
         <div>
             <span class="dark">{{ .Site.Params.name }}</span>
             <span>{{ .Site.Params.aboutAuthor }}</span>

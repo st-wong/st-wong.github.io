@@ -11,4 +11,7 @@ Credits
   * Timeline & CSS [SPECTRE.CSS](https://picturepan2.github.io/spectre/index.html)
 
 - Pixel Art
-  * Favicon from [People vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/people)
+  * Images from [People vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/people)
+
+- Devicon
+  * Icons for dev [Devicon](https://konpa.github.io/devicon)

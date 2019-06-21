@@ -9,7 +9,7 @@ categories: [
 tags: [
     "game development",
     "csharp",
-    "c++",
+    "cplusplus",
     "xbox",
     "software engineer",
 ]

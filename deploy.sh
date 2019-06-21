@@ -6,7 +6,7 @@ echo $github_token > ~/.git-credentials && chmod 0600 ~/.git-credentials
 
 rm -rf deployment
 git clone -b master https://st-wong:$github_token@github.com/st-wong/st-wong.github.io deployment
-rsync -av --delete --exclude ".git" public/ deployment
+rsync -av --delete --exclude ".git" --exclude "README.md" public/ deployment
 cd deployment
 git add -A
 # we need the || true, as sometimes you do not have any content changes

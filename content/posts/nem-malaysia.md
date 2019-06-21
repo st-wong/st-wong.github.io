@@ -8,12 +8,13 @@ categories: [
 ]
 tags: [
     "development",
-    "c#",
+    "csharp",
     "java",
     "git",
     "agile",
     "trainer",
     "software engineer",
+    "consulting",
 ]
 ---
 
