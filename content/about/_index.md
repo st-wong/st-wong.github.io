@@ -6,7 +6,7 @@ menu: "main"
 ---
 
 ##### Summary
-> I’m always seeking to improve myself wherever I can, accumulate knowledge to be a better contributor, team player & team lead, and seek the truth about life.
+> *I’m always seeking to improve myself wherever I can, accumulate knowledge to be a better contributor, team player & team lead, and seek the truth about life.*
 
 &#32;  
 ***

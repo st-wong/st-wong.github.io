@@ -1,13 +1,22 @@
-<nav class="main-nav">
+<nav class="navbar m-2">
+	<section class="navbar-section">
+	</section>
+	<section class="navbar-section">
 	{{ if not .IsHome }}
-		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ .Site.Params.home | default "Home" }}</a>
+		<a class="btn btn-link btn-sm mx-1" href='{{ .Site.BaseURL }}'>← {{ .Site.Params.home | default "Home" }}</a>
 	{{ end }}
 
 	{{ range .Site.Menus.main }}
- 		<a href='{{ .URL }}'>{{ .Name }}</a>
+		<a class="btn btn-link btn-sm mx-1" href='{{ .URL }}'>{{ .Name }}</a>
   	{{ end }}
 
+	<label class="form-switch mx-1">
+		<input type="checkbox" id="pixelfont-toggle">
+		<i class="form-icon"></i> <small>Fun</small>
+	</label>
+
 	{{ if .Site.Params.enableRSS }}
-		<a class="cta" href="{{ .Site.RSSLink }}">{{ .Site.Params.subscribe | default "Subscribe" }}</a>
+		<a class="btn btn-primary btn-sm mx-1 text-light" href="{{ .Site.RSSLink }}">{{ .Site.Params.subscribe | default "Subscribe" }}</a>
 	{{ end }}
+	</section>
 </nav>

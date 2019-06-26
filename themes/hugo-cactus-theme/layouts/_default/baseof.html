@@ -5,11 +5,12 @@
     </head>
 <body>
     {{ partial "nav.html" . }}
-    <section id="wrapper">
+    <section class="container grid-sm">
+    <div class="columns">
         {{ block "profile" . }}{{ end }}
         {{ block "main" . -}}{{- end }}
-
         {{ partial "footer.html" . }}
+    </div>
     </section>
     {{ partial "js.html" . }}
 </body>

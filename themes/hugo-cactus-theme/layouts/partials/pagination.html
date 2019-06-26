@@ -1,18 +1,22 @@
-<nav id="post-nav">
-    {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-        {{ if .Paginator.HasPrev }}
-        <span class="prev">
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<nav class="my-2 col-12 d-inline-block">
+    {{ if .Paginator.HasPrev }}
+        <span class="float-left">
+            <button class="btn btn-link btn-sm">
             <a href="{{.Paginator.Prev.URL}}">
-                <span class="arrow">←</span> {{ .Site.Params.newerPosts | default "Newer Posts" }}
+                ← {{ .Site.Params.newerPosts | default "Newer Posts" }}
             </a>
+            </button>
         </span>
-        {{ end }}
-        {{ if .Paginator.HasNext }}
-        <span class="next">
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+        <span class="float-right">
+            <button class="btn btn-link btn-sm">
             <a href="{{.Paginator.Next.URL}}">
-                {{ .Site.Params.olderPosts | default "Older Posts" }}<span class="arrow">→</span>
+                {{ .Site.Params.olderPosts | default "Older Posts" }} →
             </a>
+            </button>
         </span>
-        {{ end }}
     {{ end }}
 </nav>
+{{ end }}

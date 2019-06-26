@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://st-wong.github.io/"
 languageCode = "en-us"
-title = "Shin Tatt, Wong"
+title = "Career timeline of Shin Tatt, Wong"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -17,11 +17,12 @@ disqusShortname = ""
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
 	customCSS = [
-		"https://unpkg.com/spectre.css/dist/spectre.min.css",
-		"https://unpkg.com/spectre.css/dist/spectre-exp.min.css",
-		"https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+		"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+		"https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css",
 	]
-	customJS  = []
+	customJS  = [
+		"js/pixel.js",
+	]
 
 	# The variables below are optionally too and can be used to
 	# translate or customize each string of the theme.
@@ -33,7 +34,7 @@ disqusShortname = ""
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
-	copyright = "[Credits](https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/CREDITS.md) [License](https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/LICENSE.md)"
+	copyright = "[Credits](https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/CREDITS.md)&nbsp;&nbsp;&nbsp;&nbsp;[License](https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/LICENSE.md)"
 
 	# Sharing options and author information in posts
 	aboutAuthor = "I'm a Devloper."
@@ -43,13 +44,13 @@ disqusShortname = ""
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
+	iconFont = "font-awesome"
 	# The social icons can be styled differently if you use mono as font - circle, rounded, or empty
 	socialIconStyle = ""
 
 # Add additional social link entries underneath
 [social]
-	email	 = "mailto:shintatt.wong@gmail.com"
+	envelope = "mailto:shintatt.wong@gmail.com"
 	facebook = "https://www.facebook.com/shintatt"
 	github   = "https://www.github.com/st-wong"
 	linkedin = "https://www.linkedin.com/in/ShinTatt"

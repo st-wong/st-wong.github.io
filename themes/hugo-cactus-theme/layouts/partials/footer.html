@@ -1,12 +1,15 @@
-<footer id="footer">
+<footer class="p-centered my-gap">
     {{ if .Site.Social }}
         {{ partial "social.html" . }}
     {{ end }}
-    <p class="small">
+
+    <div class="text-center my-2">
+    <small>
     {{ with .Site.Params.copyright }}
         {{ . | markdownify }}
     {{ else }}
         © Copyright {{ now.Format "2006" }} {{ .Site.Params.name }}
     {{ end }}
-    </p>
+    </small>
+    </div>
 </footer>

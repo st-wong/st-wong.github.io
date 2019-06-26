@@ -1,14 +1,14 @@
 {{ define "main" }}
-<article class="post">
+<article>
     <header class="text-center">
         <img src="{{ "images/lost.png" | absURL }}">
     </header>
-    <section id="post-body" class="text-center">
+    <section class="text-center">
         <h1>{{ .Site.Params.title404 | default "404 - Page not found" }}</h1>
         <h3>{{ .Site.Params.subtitle404 | default "The content you're looking for doesn't seem to exist." }}</h3>
     </section>
-    <footer id="post-meta" class="clearfix">
-        <a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>Back</a>
+    <footer>
+        <a href='{{ .Site.BaseURL }}'> <span>←</span>Back</a>
     </footer>
 </article>
 {{ end }}

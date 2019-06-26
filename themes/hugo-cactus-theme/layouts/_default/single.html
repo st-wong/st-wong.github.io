@@ -1,33 +1,37 @@
 {{ define "main" }}
-<article class="post">
-    <header>
-        <h2 class="text-center">{{ .Title }}</h2>
-        <h6 class="text-center text-gray"><i>{{ .Description | markdownify }}</i></h6>
+<article class="p-centered mt-space">
+    <header class="text-center">
+        <h2>{{ .Title }}</h2>
+        <h6 class="text-gray"><i>{{ .Description | markdownify }}</i></h6>
     </header>
-    <section id="post-body">
+    <section class="my-gap">
         {{ .Content }}
 
-        <code>Tags</code>: {{ with .Params.tags }}
-        {{ if ge (len .) 1 }}
-            {{ range . }}
-            <a href="{{ printf "tags/%s" (. | urlize) | absURL }}"><span class="chip bg-secondary text-error">{{ . }}</span></a>
+        <code>Tags</code>:
+        {{ with .Params.tags }}
+            {{ if ge (len .) 1 }}
+                {{ range . }}
+                <a href="{{ printf "tags/%s" (. | urlize) | absURL }}"><span class="chip bg-secondary text-error">{{ . }}</span></a>
+                {{ end }}
             {{ end }}
         {{ end }}
-        {{ end}}
+        <hr>
     </section>
-    <footer id="post-meta" class="clearfix">
+    <footer class="col-12 d-inline-block">
+        <span class="float-left">
         <a href="https://twitter.com/@iamdevloper" target="_blank">
-        <figure class="avatar avatar-lg">
-            <img src="{{ "images/avatar.png" | absURL }}">
+        <figure class="avatar avatar-lg float-left">
+            <img class="p-1 bg-gray" src="{{ "images/avatar.png" | absURL }}">
         </figure>
-        <div>
-            <span class="dark">{{ .Site.Params.name }}</span>
-            <span>{{ .Site.Params.aboutAuthor }}</span>
+        <div class="mx-gap">
+            <span class="text-dark">{{ .Site.Params.name }}</span><br>
+            <span class="text-gray">{{ .Site.Params.aboutAuthor }}</span>
         </div>
         </a>
-        <section class="text-right pt-2">
-                <a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>Back</a>
-        </section>
+        </span>
+        <span class="float-right">
+            <button class="btn btn-link"><a href='{{ .Site.BaseURL }}'>← Back</a></button>
+        </span>
     </footer>
 </article>
 
