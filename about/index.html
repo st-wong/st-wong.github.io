@@ -12,19 +12,13 @@
 <link rel="stylesheet" href="https://st-wong.github.io/css/style.css">
 <link rel="stylesheet" href="https://st-wong.github.io/css/highlight.css">
 
-<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
-
-<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
 
 
-<link rel="stylesheet" href="https://st-wong.github.io/css/monosocialiconsfont.css">
-
-
-
-<link href="https://st-wong.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Shin Tatt, Wong" />
+<link href="https://st-wong.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Career timeline of Shin Tatt, Wong" />
 
 
 <meta property="og:title" content="About" />
@@ -47,41 +41,48 @@
 
     </head>
 <body>
-    <nav class="main-nav">
+    <nav class="navbar m-2">
+	<section class="navbar-section">
+	</section>
+	<section class="navbar-section">
 	
-		<a href='https://st-wong.github.io/'> <span class="arrow">←</span>Home</a>
+		<a class="btn btn-link btn-sm mx-1" href='https://st-wong.github.io/'>← Home</a>
 	
 
 	
- 		<a href='/about/'>About</a>
+		<a class="btn btn-link btn-sm mx-1" href='/about/'>About</a>
   	
 
+	<label class="form-switch mx-1">
+		<input type="checkbox" id="pixelfont-toggle">
+		<i class="form-icon"></i> <small>Fun</small>
+	</label>
+
 	
-		<a class="cta" href="https://st-wong.github.io/index.xml">Subscribe</a>
+		<a class="btn btn-primary btn-sm mx-1 text-light" href="https://st-wong.github.io/index.xml">Subscribe</a>
 	
+	</section>
 </nav>
 
-    <section id="wrapper">
+    <section class="container grid-sm">
+    <div class="columns">
         
-    <div class="profile">
-    <section id="wrapper">
-        <header id="header">
-            <a href="https://st-wong.github.io/about">
-                <img id="avatar" class="2x" src="https://st-wong.github.io/images/avatar.png"/>
-            </a>
-            <h3>Shin Tatt, Wong</h3>
-            <h5 class="text-gray"><em>Full Stack developer.</em></h5>
-        </header>
-    </section>
-</div>
+    <section class="container text-center mt-space">
+    <a href="https://st-wong.github.io/about">
+        <img class="s-circle p-2" src="https://st-wong.github.io/images/avatar.png"/>
+    </a>
+    <h3>Shin Tatt, Wong</h3>
+    <h5 class="text-gray"><em>Full Stack developer.</em></h5>
+</section>
 
 
         
+    <div class="container">
 
 <h5 id="summary">Summary</h5>
 
 <blockquote>
-<p>I’m always seeking to improve myself wherever I can, accumulate knowledge to be a better contributor, team player &amp; team lead, and seek the truth about life.</p>
+<p><em>I’m always seeking to improve myself wherever I can, accumulate knowledge to be a better contributor, team player &amp; team lead, and seek the truth about life.</em></p>
 </blockquote>
 
 <p>&#32;</p>
@@ -92,18 +93,18 @@
 
 <h5 id="skill-sets">Skill Sets</h5>
 
-<p><a class="symbol" href="/tags/cplusplus"><i class="icon devicon-cplusplus-plain"></i></a>
-<a class="symbol" href="/tags/java"><i class="icon devicon-java-plain"></i></a>
-<a class="symbol" href="/tags/csharp"><i class="icon devicon-csharp-plain"></i></a>
-<a class="symbol" href="/tags/go"><i class="icon devicon-go-plain"></i></a>
-<a class="symbol" href="/tags/typescript"><i class="icon devicon-typescript-plain"></i></a>
-<a class="symbol" href="/tags/javascript"><i class="icon devicon-javascript-plain"></i></a>
-<a class="symbol" href="/tags/php"><i class="icon devicon-php-plain"></i></a>
-<a class="symbol" href="/tags/mysql"><i class="icon devicon-mysql-plain"></i></a>
-<a class="symbol" href="/tags/git"><i class="icon devicon-git-plain"></i></a>
-<a class="symbol" href="/tags/ssh"><i class="icon devicon-ssh-plain"></i></a>
-<a class="symbol" href="/tags/linux"><i class="icon devicon-linux-plain"></i></a>
-<a class="symbol" href="/tags/html5"><i class="icon devicon-html5-plain"></i></a></p>
+<p><a class="symbol" href="/tags/cplusplus"><i class="devicon-cplusplus-plain"></i></a>
+<a class="symbol" href="/tags/java"><i class="devicon-java-plain"></i></a>
+<a class="symbol" href="/tags/csharp"><i class="devicon-csharp-plain"></i></a>
+<a class="symbol" href="/tags/go"><i class="devicon-go-plain"></i></a>
+<a class="symbol" href="/tags/typescript"><i class="devicon-typescript-plain"></i></a>
+<a class="symbol" href="/tags/javascript"><i class="devicon-javascript-plain"></i></a>
+<a class="symbol" href="/tags/php"><i class="devicon-php-plain"></i></a>
+<a class="symbol" href="/tags/mysql"><i class="devicon-mysql-plain"></i></a>
+<a class="symbol" href="/tags/git"><i class="devicon-git-plain"></i></a>
+<a class="symbol" href="/tags/ssh"><i class="devicon-ssh-plain"></i></a>
+<a class="symbol" href="/tags/linux"><i class="devicon-linux-plain"></i></a>
+<a class="symbol" href="/tags/html5"><i class="devicon-html5-plain"></i></a></p>
 
 <p>&#32;</p>
 
@@ -128,60 +129,61 @@
 
 <h5 id="interests">Interests</h5>
 
-<p><a href="https://google.com/search?q=Science%20%26%20Technology" class="btn" target="_blank">Science &amp; Technology</a>
- <a href="https://google.com/search?q=Sahaja%20Yoga" class="btn" target="_blank">Sahaja Yoga</a>
- <a href="https://google.com/search?q=Instrumental%20Music" class="btn" target="_blank">Instrumental Music</a>
- <a href="https://google.com/search?q=Golf" class="btn" target="_blank">Golf</a>
- <a href="https://google.com/search?q=Snowboarding" class="btn" target="_blank">Snowboarding</a>
- <a href="https://google.com/search?q=Air%20Sports" class="btn" target="_blank">Air Sports</a>
+<p><a href="https://google.com/search?q=Science%20%26%20Technology" class="btn mt-1" target="_blank">Science &amp; Technology</a>
+ <a href="https://google.com/search?q=Sahaja%20Yoga" class="btn mt-1" target="_blank">Sahaja Yoga</a>
+ <a href="https://google.com/search?q=Instrumental%20Music" class="btn mt-1" target="_blank">Instrumental Music</a>
+ <a href="https://google.com/search?q=Golf" class="btn mt-1" target="_blank">Golf</a>
+ <a href="https://google.com/search?q=Snowboarding" class="btn mt-1" target="_blank">Snowboarding</a>
+ <a href="https://google.com/search?q=Air%20Sports" class="btn mt-1" target="_blank">Air Sports</a>
 </p>
+</div>
 
-
-        <footer id="footer">
+        <footer class="p-centered my-gap">
     
-        <div id="social">
-
-	
-	
+        <div class="text-center">
     
     <a class="symbol" href="mailto:shintatt.wong@gmail.com">
-        email
+        <i class="fa fa-envelope"></i>
     </a>
     
     <a class="symbol" href="https://www.facebook.com/shintatt" target="_blank">
-        facebook
+        <i class="fa fa-facebook"></i>
     </a>
     
     <a class="symbol" href="https://www.github.com/st-wong" target="_blank">
-        github
+        <i class="fa fa-github"></i>
     </a>
     
     <a class="symbol" href="https://www.linkedin.com/in/ShinTatt" target="_blank">
-        linkedin
+        <i class="fa fa-linkedin"></i>
     </a>
     
     <a class="symbol" href="https://www.twitter.com/shintatt" target="_blank">
-        twitterbird
+        <i class="fa fa-twitter"></i>
     </a>
     
-
-
 </div>
 
     
-    <p class="small">
+
+    <div class="text-center my-2">
+    <small>
     
-        <a href="https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/CREDITS.md">Credits</a> <a href="https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/LICENSE.md">License</a>
+        <a href="https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/CREDITS.md">Credits</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/st-wong/st-wong.github.io/blob/dev/hugo/LICENSE.md">License</a>
     
-    </p>
+    </small>
+    </div>
 </footer>
 
+    </div>
     </section>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://st-wong.github.io/js/main.js"></script>
 <script src="https://st-wong.github.io/js/highlight.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
+
+<script src="https://st-wong.github.io/js/pixel.js"></script>
 
 
 
