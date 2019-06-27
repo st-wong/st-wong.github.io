@@ -16,7 +16,7 @@
 	</label>
 
 	{{ if .Site.Params.enableRSS }}
-		<a class="btn btn-primary btn-sm mx-1 text-light" href="{{ .Site.RSSLink }}">{{ .Site.Params.subscribe | default "Subscribe" }}</a>
+		<a class="btn btn-primary btn-sm mx-1 text-light" href="{{ .Site.RSSLink }}" target="_blank">{{ .Site.Params.subscribe | default "Subscribe" }}</a>
 	{{ end }}
 	</section>
 </nav>
