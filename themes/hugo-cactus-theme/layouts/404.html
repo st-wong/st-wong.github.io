@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article>
+<article class="container">
     <header class="text-center">
         <img src="{{ "images/lost.png" | absURL }}">
     </header>
@@ -8,7 +8,7 @@
         <h3>{{ .Site.Params.subtitle404 | default "The content you're looking for doesn't seem to exist." }}</h3>
     </section>
     <footer>
-        <a href='{{ .Site.BaseURL }}'> <span>←</span>Back</a>
+        <a href='{{ .Site.BaseURL }}'>← Back</a>
     </footer>
 </article>
 {{ end }}
