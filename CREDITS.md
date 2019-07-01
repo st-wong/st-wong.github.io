@@ -1,20 +1,26 @@
 Credits
 =======
 
-- Hugo
-  * Static Site Generator [Hugo](https://gohugo.io)
+- [Hugo](https://gohugo.io)
+  * Static Site Generator
 
-- Cactus Theme
-  * Theme for Hugo [Cactus Theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
+- [Cactus Theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
+  * Theme for Hugo
 
-- Spectre.css
-  * Timeline & CSS [SPECTRE.CSS](https://picturepan2.github.io/spectre/index.html)
+- [Spectre.css](https://picturepan2.github.io/spectre/index.html)
+  * Timeline & CSS
 
-- Pixel Art
-  * Images [People vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/people)
+- [People vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/people)
+  * Favicon & 404 Image
 
-- Devicon
-  * Icons for dev [Devicon](https://konpa.github.io/devicon)
+- [Devicon](https://konpa.github.io/devicon)
+  * Icons for dev
 
-- Pixel Font
-  * Monkey Island font [One Size](https://scummbar.com/resources/downloads/index.php?todo=Fonts)
+- [One Size](https://scummbar.com/resources/downloads/index.php?todo=Fonts)
+  * Monkey Island font for pixel theme
+
+- [Pixel Operator Mono 8](https://www.ffonts.net/Pixel-Operator-Mono-8.font)
+  * Pixel font for `code`,`kbd`,`pre` and `samp`
+
+- Portraits
+  * Drawn by friends
