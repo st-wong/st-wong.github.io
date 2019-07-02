@@ -3,12 +3,12 @@
 {{ end }}
 
 {{ define "main" }}
-    <div class="container my-gap">
-        {{ $data := .Data }}
-        {{ range $key, $value := .Data.Terms.ByCount }}
-            {{ if ($value.Name) }}
-            <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}"><span class="chip bg-secondary text-error">{{ $value.Name }} ({{ $value.Count }})</span></a>
-            {{ end }}
+<div class="container my-gap">
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+        {{ if ($value.Name) }}
+        <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}"><span class="chip bg-secondary text-error">{{ $value.Name }} ({{ $value.Count }})</span></a>
         {{ end }}
-    </div>
+    {{ end }}
+</div>
 {{ end }}
