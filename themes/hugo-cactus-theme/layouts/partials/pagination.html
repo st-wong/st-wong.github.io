@@ -1,21 +1,13 @@
-{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-<nav class="my-2 col-12 d-inline-block">
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="pagination">
     {{ if .Paginator.HasPrev }}
-        <span class="float-left">
-            <button class="btn btn-link btn-sm">
-            <a href="{{.Paginator.Prev.URL}}">
-                ← {{ .Site.Params.newerPosts | default "Newer Posts" }}
-            </a>
-            </button>
+        <span class="page-item page-prev">
+        <a href="{{ .Paginator.Prev.URL }}">← {{ .Site.Params.newerPosts | default "Newer Posts" }}</a>
         </span>
     {{ end }}
     {{ if .Paginator.HasNext }}
-        <span class="float-right">
-            <button class="btn btn-link btn-sm">
-            <a href="{{.Paginator.Next.URL}}">
-                {{ .Site.Params.olderPosts | default "Older Posts" }} →
-            </a>
-            </button>
+        <span class="page-item page-next">
+        <a href="{{ .Paginator.Next.URL }}">{{ .Site.Params.olderPosts | default "Older Posts" }} →</a>
         </span>
     {{ end }}
 </nav>

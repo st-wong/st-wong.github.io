@@ -1,14 +1,17 @@
 <div class="timeline my-gap">
 {{ range where .Paginator.Pages "Section" "ne" "" }}
     <div class="timeline-item">
-        <div class="timeline-left tooltip" data-tooltip="{{ .Date.Format "2006 Jan" }}">
+        <div class="timeline-left tooltip" data-tooltip="{{ .Date.Format "2006 January" }}">
             <i class="timeline-icon"></i>
         </div>
-        <div class="timeline-content speech-bubble">
-            <h6>{{ .Date.Format "2006 January" }}</h6>
-            <a href='{{ .URL }}'>{{ .LinkTitle }}</a>
-            <p>{{ .Description | markdownify }}</p>
+        <a class="timeline-content speech-bubble" href='{{ .URL }}'>  
+        <div class="tile">
+            <div class="tile-content">
+                <div class="tile-title h5">{{ .LinkTitle }}</div>
+                <div class="tile-subtitle text-dark">{{ .Description | markdownify }}</div>
+            </div>
         </div>
+        </a>
     </div>
 {{ end }}
 </div>

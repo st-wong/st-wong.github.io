@@ -10,6 +10,9 @@ Credits
 - [Spectre.css](https://picturepan2.github.io/spectre/index.html)
   * Timeline & CSS classes
 
+- [CSS Speech bubble](https://codingislove.com/css-speech-bubbles)
+  * Speech bubble CSS classes
+
 - [Pixel vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/pixel)
   * Favicon & 404 Image
 

@@ -1,13 +1,13 @@
 {{ define "main" }}
-<article class="container">
+<article class="container p-centered mt-space">
     <header class="text-center">
         <img src="{{ "images/lost.png" | absURL }}">
     </header>
-    <section class="text-center">
-        <h1>{{ .Site.Params.title404 | default "404 - Page not found" }}</h1>
-        <h3>{{ .Site.Params.subtitle404 | default "The content you're looking for doesn't seem to exist." }}</h3>
+    <section class="text-center my-gap">
+        <h2>{{ .Site.Params.title404 | default "404 - Page not found" }}</h2>
+        <h3 class="text-gray text-italic">{{ .Site.Params.subtitle404 | default "The content you're looking for doesn't seem to exist." }}</h3>
     </section>
-    <footer>
+    <footer class="col-12 d-inline-block">
         <a href='{{ .Site.BaseURL }}'>← Back</a>
     </footer>
 </article>

@@ -2,7 +2,7 @@
 <article class="container p-centered mt-space">
     <header class="text-center">
         <h2>{{ .Title }}</h2>
-        <h6 class="text-gray"><i>{{ .Description | markdownify }}</i></h6>
+        <h6 class="text-gray text-italic">{{ .Description | markdownify }}</h6>
     </header>
     <section class="my-gap">
         {{ .Content }}
