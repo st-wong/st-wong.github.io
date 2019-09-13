@@ -1,15 +1,18 @@
 function togglePixelFont() {
     const htmlTag = document.getElementsByTagName("html")[0];
+    pixelFontToggle = document.getElementById("pixelfont-toggle");
     if (htmlTag.hasAttribute("data-theme")) {
         if (typeof(Storage) !== "undefined") {
             sessionStorage.pixelFontToggle = 0;
         }
-	htmlTag.removeAttribute("data-theme");
-	document.getElementById("pixelfont-toggle").checked = false;
+        htmlTag.removeAttribute("data-theme");
+        pixelFontToggle.classList.add("text-gray");
+        pixelFontToggle.classList.remove("text-light");
         return
     }
     htmlTag.setAttribute("data-theme", "pixel")
-    document.getElementById("pixelfont-toggle").checked = true;
+    pixelFontToggle.classList.add("text-light");
+    pixelFontToggle.classList.remove("text-gray");
     if (typeof(Storage) !== "undefined") {
         sessionStorage.pixelFontToggle = 1;
     }
@@ -18,13 +21,16 @@ function togglePixelFont() {
 function setPixelFont(){
     if (typeof(Storage) !== "undefined" && sessionStorage.pixelFontToggle) {
         const htmlTag = document.getElementsByTagName("html")[0];
+        pixelFontToggle = document.getElementById("pixelfont-toggle");
         if (Number(sessionStorage.getItem("pixelFontToggle")) === 1) {
-            document.getElementById("pixelfont-toggle").checked = true;
+            pixelFontToggle.classList.add("text-light");
+            pixelFontToggle.classList.remove("text-gray");
             htmlTag.setAttribute("data-theme", "pixel");
         }
         else {
             htmlTag.removeAttribute("data-theme");
-	        document.getElementById("pixelfont-toggle").checked = false;
+	        pixelFontToggle.classList.add("text-gray");
+            pixelFontToggle.classList.remove("text-light");
         }
     }
 }

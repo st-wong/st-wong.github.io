@@ -3,48 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://st-wong.github.io/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://st-wong.github.io/posts/nem-malaysia/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/posts/srixon-sports-asia-malaysia/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <loc>https://st-wong.github.io/posts/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/posts/terry-fox-run-malaysia/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/posts/key-fides-malaysia/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/posts/i-magination-software-malaysia/</loc>
-    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/posts/phoenix-games-studio-malaysia/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/posts/netlinks-ip-communications-us/</loc>
-    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/posts/computer-science-graduation-us/</loc>
-    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/about/</loc>
-    <lastmod>2000-01-01T00:00:00+08:00</lastmod>
+    <loc>https://st-wong.github.io/tags/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -54,31 +32,8 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/business-management/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://st-wong.github.io/tags/consulting/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/cplusplus/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,86 +50,8 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/categories/development/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/document-management-system/</loc>
-    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/ecommerce/</loc>
-    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/categories/entrepreneurship/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/event-planning/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/export-trade/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/extreme-programming/</loc>
-    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/game-development/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://st-wong.github.io/tags/git/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/golf/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/categories/graduation/</loc>
-    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/import-trade/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/insurance/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/international/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,8 +62,43 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/leadership/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+    <loc>https://st-wong.github.io/tags/software-engineer/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/trainer/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/posts/srixon-sports-asia-malaysia/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/export-trade/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/golf/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/import-trade/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/international/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,9 +109,20 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/mysql/</loc>
-    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+    <loc>https://st-wong.github.io/tags/production-planning/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/sales/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/posts/terry-fox-run-malaysia/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -215,80 +138,8 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/php/</loc>
-    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/posts/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/production-planning/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/categories/professional/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/sales/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/categories/sales-marketing/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/categories/society/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/software-engineer/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/svn/</loc>
-    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://st-wong.github.io/tags/terry-fox/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/time-management/</loc>
-    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/trainer/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -299,8 +150,106 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/categories/volunteer/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <loc>https://st-wong.github.io/posts/key-fides-malaysia/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/business-management/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/event-planning/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/insurance/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/leadership/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/time-management/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/document-management-system/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/extreme-programming/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/posts/i-magination-software-malaysia/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/svn/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/posts/phoenix-games-studio-malaysia/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/cplusplus/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/game-development/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/xbox/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/posts/netlinks-ip-communications-us/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/ecommerce/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/mysql/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/php/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -311,9 +260,13 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/xbox/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://st-wong.github.io/posts/computer-science-graduation-us/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/about/</loc>
+    <lastmod>2000-01-01T00:00:00+08:00</lastmod>
   </url>
   
 </urlset>
