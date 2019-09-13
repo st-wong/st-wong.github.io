@@ -1,7 +1,5 @@
 ---
 title: "About"
-date: "2000-01-01T00:00:00+08:00"
-hidden: true
 menu: "main"
 ---
 
@@ -13,18 +11,19 @@ menu: "main"
 &#32;  
 
 ##### Skill Sets
-{{% tag cplusplus %}}
-{{% tag java %}}
-{{% tag csharp %}}
-{{% tag go %}}
-{{% tag typescript %}}
-{{% tag javascript %}}
-{{% tag php %}}
-{{% tag mysql %}}
-{{% tag git %}}
-{{% tag ssh %}}
-{{% tag linux %}}
-{{% tag html5 %}}
+{{< tag cplusplus >}}
+{{< tag csharp >}}
+{{< tag java >}}
+{{< tag go >}}
+{{< tag typescript >}}
+{{< tag javascript >}}
+{{< tag php >}}
+{{< tag mysql >}}
+{{< tag git >}}
+{{< tag ssh >}}
+{{< tag linux >}}
+{{< tag html5 >}}
+{{< tag css3 >}}
 
 &#32;  
 
@@ -42,4 +41,9 @@ menu: "main"
 &#32;  
 
 ##### Interests
-{{% button "Science & Technology" %}} {{% button "Sahaja Yoga" %}} {{% button "Instrumental Music" %}} {{% button "Golf" %}} {{% button "Snowboarding" %}} {{% button "Air Sports" %}}
+{{< button text="Science & Technology" >}}
+{{< button text="Sahaja Yoga" src="https://www.sahajayoga.org/" >}}
+{{< button text="Instrumental Music" >}}
+{{< button text="Golf" >}}
+{{< button text="Snowboarding" >}}
+{{< button text="Air Sports" src="https://www.youtube.com/watch?v=_pET8-ai8JI" >}}
