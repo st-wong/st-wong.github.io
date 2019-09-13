@@ -1,7 +1,0 @@
-<div class="text-center">
-    {{ range $key, $val := .Site.Social }}
-    <a class="symbol" href="{{ $val }}"{{ if ne $key "envelope" }} target="_blank"{{ end }}>
-        <i class="fa fa-{{ $key }}"></i>
-    </a>
-    {{ end }}
-</div>

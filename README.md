@@ -14,9 +14,19 @@ This branch will host the source files used to build [st-wong.github.io](https:/
 #### Fetch from GitHub
 
 ```bash
-git clone -b dev/hugo https://github.com/st-wong/st-wong.github.io.git
+git clone -b --recursive dev/hugo https://github.com/st-wong/st-wong.github.io.git
 cd st-wong.github.io
-hugo server -t hugo-cactus-theme
+hugo server -t spectre-pixel
 ```
 
 Now enter `localhost:1313` in the address bar of your browser.
+
+[Spectre-Pixel Theme](//github.com/st-wong/hugo-spectre-pixel-theme) is used for this site.
+
+## License
+ 
+This repository is released under the MIT license. For more information read the [license](//github.com/st-wong/hugo-spectre-pixel-theme/blob/master/LICENSE.md).
+  
+## Acknowledgements
+ 
+[Credits](//github.com/st-wong/st-wong.github.io/blob/dev/hugo/CREDITS.md).

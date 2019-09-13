@@ -1,32 +1,14 @@
-Credits
-=======
+Thanks to:
+==========
 
-- [Hugo](https://gohugo.io)
-  * Static Site Generator
-
-- [Cactus Theme](https://github.com/digitalcraftsman/hugo-cactus-theme)
-  * Theme for Hugo
-
-- [Spectre.css](https://picturepan2.github.io/spectre/index.html)
-  * Timeline & CSS classes
-
-- [CSS Speech bubble](https://codingislove.com/css-speech-bubbles)
-  * Speech bubble CSS classes
+- [Credits](//github.com/st-wong/hugo-spectre-pixel-theme/blob/master/CREDITS.md)
+  * Credits for spectre-pixel theme
 
 - [Pixel vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/pixel)
-  * Favicon & 404 Image
+  * 404 Image
 
-- [Font Awesome](https://fontawesome.com/v4.7.0)
-  * Icons for social media
-
-- [Devicon](https://konpa.github.io/devicon)
-  * Icons for dev skills
-
-- [One Size](https://scummbar.com/resources/downloads/index.php?todo=Fonts)
-  * Monkey Island font for pixel theme, for `code`,`kbd`,`pre` and `samp` html tags
-
-- [Minecraft] (https://www.fontspace.com/jdgraphics/minecraft)
-  * Minecraft font for pixel theme
+- [Chinese Calligraphy](https://chinese.gratis/tools/chinesecalligraphy/)
+  * Logo & Favicon
 
 - Portraits
   * Drawn by friends
