@@ -9,7 +9,7 @@ tags: [
     "import trade",
     "export trade",
     "retail costing",
-    "inventory"
+    "inventory",
     "production planning",
     "international",
     "currency exchange",
