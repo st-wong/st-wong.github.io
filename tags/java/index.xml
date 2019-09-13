@@ -19,7 +19,18 @@
       <guid>https://st-wong.github.io/posts/nem-malaysia/</guid>
       <description>Senior Software Engineer, Team Lead June 2017 – April 2019
 Kuala Lumpur, Malaysia
-Details coming soon</description>
+Training Framework Blockchain technology was a paradigm shift for many people in 2017 and the concept of decentralization was something many people were interested to understand but were misinformed. I lead the technical team in the APAC region to develop the training framework and certification process, to educate the public about this new technology and saw that it was a good opportunity to prepare the foundation for generating revenue.</description>
+    </item>
+    
+    <item>
+      <title>University at Buffalo</title>
+      <link>https://st-wong.github.io/posts/computer-science-graduation-us/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/posts/computer-science-graduation-us/</guid>
+      <description>BSc in Computer Science August 2000 – August 2003
+New York, United States of America
+Auction site I had the opportunity to work in an e-commerce company in which I developed an auction site using Perl &amp;amp; MySQL. The site was a prototype and was meant to allow consumers to bid for fresh vegetables directly from the farmers. Concurrent bids was something that would typically happen during a bid, in which I developed a simple queue system to help in dealing with conflict bids.</description>
     </item>
     
   </channel>

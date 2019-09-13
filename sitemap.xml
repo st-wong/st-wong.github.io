@@ -32,19 +32,13 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/consulting/</loc>
+    <loc>https://st-wong.github.io/tags/cplusplus/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://st-wong.github.io/tags/csharp/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/development/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,13 +56,25 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/software-engineer/</loc>
+    <loc>https://st-wong.github.io/tags/javascript/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/trainer/</loc>
+    <loc>https://st-wong.github.io/tags/scrum/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/slack/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/typescript/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -76,6 +82,12 @@
   <url>
     <loc>https://st-wong.github.io/posts/srixon-sports-asia-malaysia/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/currency-exchange/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -103,6 +115,12 @@
   </url>
   
   <url>
+    <loc>https://st-wong.github.io/tags/inventory/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://st-wong.github.io/tags/marketing/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -110,6 +128,12 @@
   
   <url>
     <loc>https://st-wong.github.io/tags/production-planning/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/retail-costing/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -155,7 +179,7 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/business-management/</loc>
+    <loc>https://st-wong.github.io/tags/consulting/</loc>
     <lastmod>2006-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -179,14 +203,8 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/time-management/</loc>
+    <loc>https://st-wong.github.io/tags/risk-management/</loc>
     <lastmod>2006-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/document-management-system/</loc>
-    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,18 +231,6 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/cplusplus/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://st-wong.github.io/tags/game-development/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://st-wong.github.io/tags/xbox/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -236,7 +242,7 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/ecommerce/</loc>
+    <loc>https://st-wong.github.io/tags/apache/</loc>
     <lastmod>2003-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -254,19 +260,42 @@
   </url>
   
   <url>
-    <loc>https://st-wong.github.io/tags/web/</loc>
-    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://st-wong.github.io/posts/computer-science-graduation-us/</loc>
     <lastmod>2003-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://st-wong.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/lambda/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/lisp/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/matlab/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://st-wong.github.io/tags/perl/</loc>
+    <lastmod>2003-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://st-wong.github.io/about/</loc>
-    <lastmod>2000-01-01T00:00:00+08:00</lastmod>
   </url>
   
 </urlset>

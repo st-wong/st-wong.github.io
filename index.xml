@@ -19,7 +19,7 @@
       <guid>https://st-wong.github.io/posts/nem-malaysia/</guid>
       <description>Senior Software Engineer, Team Lead June 2017 – April 2019
 Kuala Lumpur, Malaysia
-Details coming soon</description>
+Training Framework Blockchain technology was a paradigm shift for many people in 2017 and the concept of decentralization was something many people were interested to understand but were misinformed. I lead the technical team in the APAC region to develop the training framework and certification process, to educate the public about this new technology and saw that it was a good opportunity to prepare the foundation for generating revenue.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ Details coming soon</description>
       <guid>https://st-wong.github.io/posts/i-magination-software-malaysia/</guid>
       <description>Software Engineer July 2005 – July 2006
 Cyberjaya, Malaysia
-Details coming soon</description>
+Optical Character Recognition (OCR) I was part of the core team which worked on building the next version of the Document Management System from scratch. OCR was a very interesting module I helped developed which involved quite a bit of algorithm and, it has to support fuzzy search &amp;amp; language processing.</description>
     </item>
     
     <item>
@@ -74,7 +74,8 @@ Details coming soon</description>
       <guid>https://st-wong.github.io/posts/phoenix-games-studio-malaysia/</guid>
       <description>Game Developer, Tools January 2005 – July 2005
 Cyberjaya, Malaysia
-Details coming soon</description>
+Internal Version Control There was some file sync needed between the Development team and Graphics team since the artists had a hard time using SVN. I developed a simple version control to allow files to be sync and downloaded between the 2 departments in real time.
+Camera Export Tool The tool developers needed to get different camera view while developing their extensions for the game.</description>
     </item>
     
     <item>
@@ -85,18 +86,18 @@ Details coming soon</description>
       <guid>https://st-wong.github.io/posts/netlinks-ip-communications-us/</guid>
       <description>Web Developer September 2003 – September 2004
 Georgia, United States of America
-Details coming soon</description>
+3D Game Engine Determine to get into the game industry, I started writing my own 3D game engine during my own time. The engine was never completed unfortunately, but I did complete the terrain rendering and collision detection modules. I also realized the importance of calculus and linear algebra during my journey in developing this engine.</description>
     </item>
     
     <item>
-      <title>Graduation</title>
+      <title>University at Buffalo</title>
       <link>https://st-wong.github.io/posts/computer-science-graduation-us/</link>
       <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
       
       <guid>https://st-wong.github.io/posts/computer-science-graduation-us/</guid>
       <description>BSc in Computer Science August 2000 – August 2003
 New York, United States of America
-Details coming soon</description>
+Auction site I had the opportunity to work in an e-commerce company in which I developed an auction site using Perl &amp;amp; MySQL. The site was a prototype and was meant to allow consumers to bid for fresh vegetables directly from the farmers. Concurrent bids was something that would typically happen during a bid, in which I developed a simple queue system to help in dealing with conflict bids.</description>
     </item>
     
   </channel>

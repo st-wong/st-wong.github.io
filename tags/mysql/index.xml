@@ -19,7 +19,18 @@
       <guid>https://st-wong.github.io/posts/netlinks-ip-communications-us/</guid>
       <description>Web Developer September 2003 – September 2004
 Georgia, United States of America
-Details coming soon</description>
+3D Game Engine Determine to get into the game industry, I started writing my own 3D game engine during my own time. The engine was never completed unfortunately, but I did complete the terrain rendering and collision detection modules. I also realized the importance of calculus and linear algebra during my journey in developing this engine.</description>
+    </item>
+    
+    <item>
+      <title>University at Buffalo</title>
+      <link>https://st-wong.github.io/posts/computer-science-graduation-us/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/posts/computer-science-graduation-us/</guid>
+      <description>BSc in Computer Science August 2000 – August 2003
+New York, United States of America
+Auction site I had the opportunity to work in an e-commerce company in which I developed an auction site using Perl &amp;amp; MySQL. The site was a prototype and was meant to allow consumers to bid for fresh vegetables directly from the farmers. Concurrent bids was something that would typically happen during a bid, in which I developed a simple queue system to help in dealing with conflict bids.</description>
     </item>
     
   </channel>

@@ -6,10 +6,21 @@
     <description>Recent content in cplusplus on Career timeline of Shin Tatt, Wong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://st-wong.github.io/tags/cplusplus/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NEM Malaysia Sdn Bhd</title>
+      <link>https://st-wong.github.io/posts/nem-malaysia/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/posts/nem-malaysia/</guid>
+      <description>Senior Software Engineer, Team Lead June 2017 – April 2019
+Kuala Lumpur, Malaysia
+Training Framework Blockchain technology was a paradigm shift for many people in 2017 and the concept of decentralization was something many people were interested to understand but were misinformed. I lead the technical team in the APAC region to develop the training framework and certification process, to educate the public about this new technology and saw that it was a good opportunity to prepare the foundation for generating revenue.</description>
+    </item>
     
     <item>
       <title>Phoenix Games Studio Sdn Bhd</title>
@@ -19,7 +30,19 @@
       <guid>https://st-wong.github.io/posts/phoenix-games-studio-malaysia/</guid>
       <description>Game Developer, Tools January 2005 – July 2005
 Cyberjaya, Malaysia
-Details coming soon</description>
+Internal Version Control There was some file sync needed between the Development team and Graphics team since the artists had a hard time using SVN. I developed a simple version control to allow files to be sync and downloaded between the 2 departments in real time.
+Camera Export Tool The tool developers needed to get different camera view while developing their extensions for the game.</description>
+    </item>
+    
+    <item>
+      <title>Netlink IP Communications</title>
+      <link>https://st-wong.github.io/posts/netlinks-ip-communications-us/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/posts/netlinks-ip-communications-us/</guid>
+      <description>Web Developer September 2003 – September 2004
+Georgia, United States of America
+3D Game Engine Determine to get into the game industry, I started writing my own 3D game engine during my own time. The engine was never completed unfortunately, but I did complete the terrain rendering and collision detection modules. I also realized the importance of calculus and linear algebra during my journey in developing this engine.</description>
     </item>
     
   </channel>

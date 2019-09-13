@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>consulting</title>
-      <link>https://st-wong.github.io/tags/consulting/</link>
+      <title>cplusplus</title>
+      <link>https://st-wong.github.io/tags/cplusplus/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/consulting/</guid>
+      <guid>https://st-wong.github.io/tags/cplusplus/</guid>
       <description></description>
     </item>
     
@@ -35,15 +35,6 @@
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://st-wong.github.io/tags/csharp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://st-wong.github.io/tags/development/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://st-wong.github.io/tags/development/</guid>
       <description></description>
     </item>
     
@@ -66,20 +57,47 @@
     </item>
     
     <item>
-      <title>software engineer</title>
-      <link>https://st-wong.github.io/tags/software-engineer/</link>
+      <title>javascript</title>
+      <link>https://st-wong.github.io/tags/javascript/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/software-engineer/</guid>
+      <guid>https://st-wong.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>trainer</title>
-      <link>https://st-wong.github.io/tags/trainer/</link>
+      <title>scrum</title>
+      <link>https://st-wong.github.io/tags/scrum/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/trainer/</guid>
+      <guid>https://st-wong.github.io/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slack</title>
+      <link>https://st-wong.github.io/tags/slack/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/slack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://st-wong.github.io/tags/typescript/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>currency exchange</title>
+      <link>https://st-wong.github.io/tags/currency-exchange/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/currency-exchange/</guid>
       <description></description>
     </item>
     
@@ -120,6 +138,15 @@
     </item>
     
     <item>
+      <title>inventory</title>
+      <link>https://st-wong.github.io/tags/inventory/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>marketing</title>
       <link>https://st-wong.github.io/tags/marketing/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
@@ -134,6 +161,15 @@
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://st-wong.github.io/tags/production-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retail costing</title>
+      <link>https://st-wong.github.io/tags/retail-costing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/retail-costing/</guid>
       <description></description>
     </item>
     
@@ -183,11 +219,11 @@
     </item>
     
     <item>
-      <title>business management</title>
-      <link>https://st-wong.github.io/tags/business-management/</link>
+      <title>consulting</title>
+      <link>https://st-wong.github.io/tags/consulting/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/business-management/</guid>
+      <guid>https://st-wong.github.io/tags/consulting/</guid>
       <description></description>
     </item>
     
@@ -219,20 +255,11 @@
     </item>
     
     <item>
-      <title>time management</title>
-      <link>https://st-wong.github.io/tags/time-management/</link>
+      <title>risk management</title>
+      <link>https://st-wong.github.io/tags/risk-management/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/time-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>document management system</title>
-      <link>https://st-wong.github.io/tags/document-management-system/</link>
-      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://st-wong.github.io/tags/document-management-system/</guid>
+      <guid>https://st-wong.github.io/tags/risk-management/</guid>
       <description></description>
     </item>
     
@@ -255,24 +282,6 @@
     </item>
     
     <item>
-      <title>cplusplus</title>
-      <link>https://st-wong.github.io/tags/cplusplus/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://st-wong.github.io/tags/cplusplus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game development</title>
-      <link>https://st-wong.github.io/tags/game-development/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://st-wong.github.io/tags/game-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>xbox</title>
       <link>https://st-wong.github.io/tags/xbox/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
@@ -282,11 +291,11 @@
     </item>
     
     <item>
-      <title>ecommerce</title>
-      <link>https://st-wong.github.io/tags/ecommerce/</link>
+      <title>apache</title>
+      <link>https://st-wong.github.io/tags/apache/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/ecommerce/</guid>
+      <guid>https://st-wong.github.io/tags/apache/</guid>
       <description></description>
     </item>
     
@@ -309,11 +318,47 @@
     </item>
     
     <item>
-      <title>web</title>
-      <link>https://st-wong.github.io/tags/web/</link>
-      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <title>c&#43;&#43;</title>
+      <link>https://st-wong.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://st-wong.github.io/tags/web/</guid>
+      <guid>https://st-wong.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lambda</title>
+      <link>https://st-wong.github.io/tags/lambda/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lisp</title>
+      <link>https://st-wong.github.io/tags/lisp/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/lisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://st-wong.github.io/tags/matlab/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://st-wong.github.io/tags/perl/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://st-wong.github.io/tags/perl/</guid>
       <description></description>
     </item>
     
