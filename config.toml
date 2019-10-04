@@ -5,7 +5,7 @@ title = "Career timeline of Shin Tatt, Wong"
 theme = "spectre-pixel"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-29809648-1"
 
 [params]
   name = "Shin Tatt, Wong"
