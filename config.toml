@@ -42,7 +42,7 @@ googleAnalytics = "UA-29809648-1"
 
 # Add additional social link entries underneath
 [social]
-  email    = "mailto:shintatt.wong@gmail.com"
+  email    = "shintatt.wong@gmail.com"
   facebook = "https://www.facebook.com/shintatt"
   github   = "https://www.github.com/st-wong"
   linkedin = "https://www.linkedin.com/in/ShinTatt"
